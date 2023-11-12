@@ -1,0 +1,141 @@
+{
+	"name":"ancient_ruins:up",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/middle",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/tower_branch/1",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/tower_branch/2",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/tower_branch/3",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/tower_branch/4",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/tower_branch/5",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/tower_branch/6",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/tower_branch/7",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:list_pool_element",
+				"projection": "rigid",
+				"elements": [
+					{
+						"element_type": "minecraft:single_pool_element",
+						"projection": "rigid",
+						"location": "ancient_ruins:silver_tower/top",
+						"processors": "minecraft:empty"
+					}
+				]
+			}
+		}
+	]
+}
