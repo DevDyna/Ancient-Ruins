@@ -1,0 +1,16 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+issueTrackerURL=""
+license="ARR"
+[[mods]]
+    modId="ancient_ruins"
+    version="1.0.0"
+    displayName="Ancient Ruins"
+    description=""
+
+[[dependencies.ancient_ruins]]
+	modId = "minecraft"
+	mandatory = true
+	versionRange = "[1.20,)"
+	ordering = "NONE"
+	side = "BOTH"
